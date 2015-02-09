@@ -1,0 +1,8 @@
+Prediction Method	Win %	Games Correct	Games Wrong
+Categorical w/D	0.6981	689	298
+Vegas Odds	0.694	685	302
+Four Factor	0.6683	401	199
+Pythag	0.6586	650	337
+Simple Categorical	0.647416	639	348
+Team Record	0.6302	622	365
+Home Win	0.612	604	383

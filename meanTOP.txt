@@ -1,0 +1,31 @@
+Team	Mean TOP
+Rockets	14.29307
+Nuggets	14.628685
+Mavericks	14.68654
+Warriors	14.840438
+Thunder	14.887561
+Bucks	14.94176
+Lakers	14.97815
+Celtics	15.232164
+Spurs	15.291754
+Kings	15.30336
+Wizards	15.350794
+Hawks	15.432117
+Suns	15.556445
+76ers	15.729448
+Clippers	15.771074
+Cavaliers	15.776175
+Heat	15.819744
+Bobcats	15.861221
+Magic	15.917317
+Timberwolves	15.961102
+Trail Blazers	16.048418
+Pistons	16.053457
+Knicks	16.203756
+Jazz	16.348488
+Pacers	16.372744
+Raptors	16.401957
+Hornets	16.6463
+Grizzlies	16.823395
+Bulls	16.857721
+Nets	16.966278

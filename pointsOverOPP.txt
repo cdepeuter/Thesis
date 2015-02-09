@@ -1,0 +1,31 @@
+Team	Points over Opponent
+Thunder	0.0980875
+Spurs	0.0799635
+Clippers	0.0780455
+Heat	0.074387
+Pacers	0.0531365
+Knicks	0.0407035
+Grizzlies	0.037053
+Rockets	0.02882
+Nuggets	0.02457
+Lakers	0.0129335
+Celtics	0.0111335
+Mavericks	0.0097635
+Hawks	0.0083395
+Nets	0.003199
+Bulls	0.001311
+Warriors	-0.001466
+Jazz	-0.0047518
+Bucks	-0.0078085
+Raptors	-0.011852
+Trail Blazers	-0.0183775
+Timberwolves	-0.0338125
+76ers	-0.035635
+Cavaliers	-0.035773
+Wizards	-0.0374025
+Hornets	-0.0462905
+Pistons	-0.050834
+Kings	-0.0562505
+Magic	-0.067639
+Suns	-0.0687765
+Bobcats	-0.107183
